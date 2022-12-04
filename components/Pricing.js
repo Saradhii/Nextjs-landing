@@ -8,6 +8,7 @@ import { motion } from "framer-motion";
 import getScrollAnimation from "../utils/getScrollAnimation";
 import ScrollAnimationWrapper from "./Layout/ScrollAnimationWrapper";
 
+
 const Pricing = () => {
   const scrollAnimation = useMemo(() => getScrollAnimation(), []);
 
