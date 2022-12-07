@@ -6,7 +6,6 @@ import Instagram from "../../public/assets/Icon/instagram.svg";
 
 
 
-
 const Footer = () => {
   return (
     <div className="bg-white-300 pt-44 pb-24">
