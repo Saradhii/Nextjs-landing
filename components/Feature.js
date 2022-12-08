@@ -3,6 +3,7 @@ import React, { useMemo } from "react";
 import { motion } from "framer-motion";
 import getScrollAnimation from "../utils/getScrollAnimation";
 import ScrollAnimationWrapper from "./Layout/ScrollAnimationWrapper";
+
 const features = [
   "Powerfull online protection.",
   "Internet without borders.",
